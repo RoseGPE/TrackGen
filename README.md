@@ -1,10 +1,10 @@
 # TrackGen
 Tool for making tracks to be used by RoseLap V2
 
-# Input:
+## Input:
 TBD
 
-# Output:
+## Output:
 A list of 'segments', each with the following attributes:
     x: The x position of this segment
     x_m: The x position of the previous segment, -1 if non-existent
