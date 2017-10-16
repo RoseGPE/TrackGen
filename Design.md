@@ -3,7 +3,7 @@
 Program is written in Java 8
 _____
 ## Proposed designs:
-### Universal designs
+### Universal features
 Program will launch a window with a dialogue box to load a previous track or to create a new track  
 Selecting the option to create a new track will ask the user to load an image for the track creation process  
 The image will be loaded and the user will be asked to specify the scale of the image by marking out the length of one meter (The image should have a scale somewhere in it to make this easier, such as a white object known to be a meter in length that can be traced over to provide the exact length of one meter)  
