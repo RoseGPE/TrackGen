@@ -1,6 +1,7 @@
 # Program Design
 ### Language
-Program is written in Java 8
+Program is written in Java 8, as it is the language I am most comfortable in and can probably do the best in.  
+It *could* be done in Pythonl but I only have an environment setup for python 3.6, and the RoseLap software is in 2.7, also I am not very familiar with creating GUIs in Python, and would rather get this done in a reasonable timeframe than waste time learning Python GUI stuff.
 _____
 ## Proposed designs:
 ### Universal features
